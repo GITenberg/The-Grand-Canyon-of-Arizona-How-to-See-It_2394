@@ -1,0 +1,24 @@
+_repo: The-Grand-Canyon-of-Arizona-How-to-See-It_2394
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grand Canyon (Ariz.) -- Description and travel'
+- !lcc 'F786'
+- !lcsh 'Arizona -- Description and travel'
+title: 'The Grand Canyon of Arizona: How to See It'
+url: http://www.gutenberg.org/ebooks/2394
