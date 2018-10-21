@@ -1,5 +1,5 @@
 _repo: The-Grand-Canyon-of-Arizona-How-to-See-It_2394
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Grand Canyon (Ariz.) -- Description and travel'
 - !lcc 'F786'
 - !lcsh 'Arizona -- Description and travel'
+- GITenberg
 title: 'The Grand Canyon of Arizona: How to See It'
 url: http://www.gutenberg.org/ebooks/2394
